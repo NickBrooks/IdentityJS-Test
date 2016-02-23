@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSApplication", "JSApplication\JSApplication.csproj", "{468326B4-5E97-4CDD-AB8F-F008CC15CB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{2D2E587C-EF34-4FE3-8DDE-59F337126836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468326B4-5E97-4CDD-AB8F-F008CC15CB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468326B4-5E97-4CDD-AB8F-F008CC15CB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468326B4-5E97-4CDD-AB8F-F008CC15CB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468326B4-5E97-4CDD-AB8F-F008CC15CB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2E587C-EF34-4FE3-8DDE-59F337126836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2E587C-EF34-4FE3-8DDE-59F337126836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2E587C-EF34-4FE3-8DDE-59F337126836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2E587C-EF34-4FE3-8DDE-59F337126836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
